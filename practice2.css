@@ -311,3 +311,7 @@ a {
   text-decoration: none;
   color: var(--color-links);
 }
+
+.cont-2part:hover , .part3-box:hover {
+  background-color: var(  --color-background3);
+}
